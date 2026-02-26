@@ -9,7 +9,7 @@ This project creates a simple web form using HTML and JavaScript that collects u
 - Gender (Male/Female/Other)  
 - Comments  
 
-The project demonstrates basic frontend web development concepts such as form design, validation, and simulated database submission using plain JavaScript.
+The project demonstrates basic frontend web development concepts such as form design, validation, and simulated database submission.
 
 ### Form Design
 - HTML is used to design a user-friendly form interface.
