@@ -32,8 +32,7 @@ On successful validation, the form data is submitted using the **POST method**.
 
 Database submission is simulated using JavaScript by:
 
-- Sending the data to a mock URL:  
-  https://example.com/submit  
+- Sending the data to a mock URL. 
 - Using the **fetch()** function.
 - Displaying a success message on the web page:
 
