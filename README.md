@@ -46,7 +46,7 @@ Form submitted successfully!
 ## How to Run the Project
 1. Download the project file.
 2. Open:
-   ASSIGN2 WEB.html
+   index.html
 3. Fill in the form fields.
 4. Click **Submit** to test validation and simulated submission.
 
