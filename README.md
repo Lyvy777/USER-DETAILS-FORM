@@ -11,7 +11,7 @@ This project creates a simple web form using HTML and JavaScript that collects u
 
 The project demonstrates basic frontend web development concepts such as form design, validation, and simulated database submission.
 
-### Form Design
+## Form Design
 - HTML is used to design a user-friendly form interface.
 - Input fields are provided for:
   - Full Name
@@ -20,14 +20,14 @@ The project demonstrates basic frontend web development concepts such as form de
   - Gender selection using radio buttons
   - Comments using a textarea
 
-### JavaScript Validation
+## JavaScript Validation
 JavaScript is used to:
 
 - Validate that all required fields are filled.
 - Ensure the email field contains a valid email format using a regular expression.
 - Display an alert message if any field is invalid.
 
-### Form Submission (Simulation)
+## Form Submission (Simulation)
 On successful validation, the form data is submitted using the **POST method**.
 Database submission is simulated using JavaScript by:
 
