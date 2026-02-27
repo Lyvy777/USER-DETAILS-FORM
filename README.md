@@ -29,7 +29,6 @@ JavaScript is used to:
 
 ### Form Submission (Simulation)
 On successful validation, the form data is submitted using the **POST method**.
-
 Database submission is simulated using JavaScript by:
 
 - Sending the data to a mock URL. 
